@@ -3,8 +3,8 @@ package main
 //TODO: this won't be a main file later
 
 import (
-	. "awesomeProject/api/workout-api/seed"
 	"net/http"
+	. "workout-api/seed"
 
 	"github.com/gin-gonic/gin"
 )

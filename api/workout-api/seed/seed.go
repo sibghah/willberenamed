@@ -1,8 +1,8 @@
 package seed
 
 import (
-	"awesomeProject/api/workout-api/types"
 	"time"
+	"workout-api/types"
 )
 
 //TODO: this file should actually connect to the database in the future, but using seeded data for now
